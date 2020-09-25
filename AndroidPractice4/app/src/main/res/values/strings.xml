@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidPractice4</string>
+    <string name="greeting">"일상다반사부터\n전문 자료까지,\n티스토리"</string>
+    <string name="Brooklyn_Bridge">Brooklyn Bridge</string>
+    <string name="John_Hancock">John Hancock Tower</string>
+    <string name="Atlanta">Atlanta</string>
+    <string name="Goldengate_Bridge">Goldengate Bridge</string>
+    <string name="subscriber">내 블로그 구독자</string>
+    <string name="hot">인기글</string>
+    <string name="recent">최근글</string>
+    <string name="first_subscriber">"With님의\nWithSR's Box"</string>
+    <string name="second_subscriber">"겁없이 살자님의\n해보고 말하자"</string>
+</resources>
